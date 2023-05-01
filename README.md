@@ -1,4 +1,8 @@
 ### hi! i'm kayt!
 
-- I'm a student and I make stuff sometimes! I usually work in JS/TS and more specifically Svelte, but I occasionally work in Python
-- 🏳️‍⚧️ My pronouns are she/they
+- im a student who makes stuff sometimes
+- i work most in js/ts with svelte and node
+- i do some stuff in python, though rarely
+- im interested in minecraft modding and im on-and-off learning java for it
+- 🏳️‍⚧️ my pronouns are she/they
+- i have a [website](https://kayt.dev)
