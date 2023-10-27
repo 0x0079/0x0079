@@ -11,7 +11,7 @@
 ### Environments:
 Dekstop -
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg" alt="windows 10" width="50" height="50/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg" alt="windows 10" width="50" height="50"/>
 <a href="https://www.mozilla.org/en-US/firefox/" target="_blank" rel="noreferrer"> <img src="https://hg.mozilla.org/mozilla-central/raw-file/tip/browser/branding/official/content/about-logo.svg" alt="firefox" width="50" height="50"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="norefferer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50" height="50"/></a>
 </p>
