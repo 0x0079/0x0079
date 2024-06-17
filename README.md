@@ -1,12 +1,12 @@
-# hi! i'm kayt!
-<img src="https://em-content.zobj.net/thumbs/120/twitter/322/transgender-flag_1f3f3-fe0f-200d-26a7-fe0f.png" height="16"/> <a href="https://en.pronouns.page/@kayt_was_taken" targer="_blank">she/her</a>
+she/her
 
 
 ### im a student who makes stuff sometimes
 - vanilla html/css/js
 - frontend web
-- i have a website ([kayt.dev](https://kayt.dev))
 - python bs 👍
+
+trying to learn nix and rust but that's slow lol
 
 ### Environments:
 Desktop -
@@ -28,5 +28,5 @@ Mobile -
 <a href="https://vim.org" target="_blank" rel="norefferer"><img src="https://www.vim.org/images/vimlogo.svg" width="50" height="50"></a>
 </p>
 
-### Languages / Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,svelte,python,nix)](https://skillicons.dev) <br>
+<!-- ### Languages / Tools -->
+<!-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,svelte,python,nix)](https://skillicons.dev) <br> -->
