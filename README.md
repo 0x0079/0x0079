@@ -1,6 +1,3 @@
-she/her
-
-
 ### im a student who makes stuff sometimes
 - vanilla html/css/js
 - frontend web
